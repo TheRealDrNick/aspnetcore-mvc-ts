@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iO8mNAAI4yrIv+rPpLE4+5uQCVBkgqbb2tWZcCynzsy7TSwEOoprYfMwOrxfAPuORtaWH7IaCwDoiVy5iIgFeQ==",
+  "success": true,
+  "projectFilePath": "C:\\P\\AspNetTypescript\\ASPNET-Core-TS\\ASPNET-Core-TS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nicolas Wittmann\\.nuget\\packages\\microsoft.typescript.msbuild\\4.4.2\\microsoft.typescript.msbuild.4.4.2.nupkg.sha512"
+  ],
+  "logs": []
+}
